@@ -18,4 +18,3 @@ class WordPressStatus {
 
 $wordPressStatus = new WordPressstatus();
 
-error_log(WP_DEBUG);
