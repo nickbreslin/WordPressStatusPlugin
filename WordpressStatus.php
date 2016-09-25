@@ -35,6 +35,7 @@ class WordPressStatus {
 
     	Timber::render('admin_page.twig', $data);
     }
+
 }
 
 $wordPressStatus = new WordPressStatus();
